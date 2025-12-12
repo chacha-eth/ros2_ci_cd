@@ -3,7 +3,7 @@ name: ros2-pipeline-test
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
